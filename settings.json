@@ -1,0 +1,30 @@
+{
+    "display": {
+        "brightness": 0.1,
+        "num_pixels": 128,
+        "module_width": 8,
+        "module_height": 8,
+        "num_modules": 2,
+        "gpio_pin": 18
+    },
+    "audio": {
+        "bars": 16,
+        "framerate": 60
+    },
+    "effects": {
+        "auto_cycle": true,
+        "duration": 120,
+        "enabled": {
+            "BlueWave": true,
+            "NegativeMotion": true,
+            "NegativeWave": true,
+            "QuantumFluid": true,
+            "QuantumFluid2": true,
+            "Rainbow": true,
+            "RedSmog": true,
+            "SuspiriaSpectrum": true,
+            "ThermalPeaks": true,
+            "WarmPeaks": true
+        }
+    }
+}
